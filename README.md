@@ -6,7 +6,6 @@ Software engineer — backend systems, infrastructure, and applied machine learn
 - 🛠️ Right now: SDE Intern on the Data Center Automation team at Amazon Web Services, Bellevue
 - 🚦 Before that: Twilio IAM, where I built performance gates into the canary pipelines for two `Java` auth services — load tests as Kubernetes Jobs through Argo Rollouts `AnalysisTemplates`, with thresholds pulled from 244M production requests in Datadog
 - 📊 Also: a QuickBooks-backed financial dashboard at Ascent Consulting, and urban simulation tooling at Georgia Tech's Sustainable Urban Systems Lab
-- 🎯 Looking for new grad SWE roles starting 2028 · currently in Seattle, WA
 
 ### Things I've built
 
