@@ -36,13 +36,26 @@ both.
 
 ### Other projects
 
-- [hearing-monitor](https://github.com/nithish101/hearing-monitor): a real-time hearing strain
-  monitor in C on a Raspberry Pi, reading an I2S MEMS microphone and driving an LED and buzzer
-  over GPIO, with a POSIX simulation mode for running headless.
-- [Semester Survival](https://github.com/nithish101/Semester-Survival): a budgeting simulation
-  game. [Play it](https://nithish101.github.io/Semester-Survival/).
-- [First Kitchen](https://github.com/nithish101/first-kitchen): a cooking game driven by
-  ingredient chemistry instead of recipes. [Play it](https://nithish101.github.io/first-kitchen/).
+<table>
+<tr>
+<td width="33%" valign="top">
+<a href="https://github.com/nithish101/hearing-monitor"><img src="assets/hearing-monitor.png" alt="hearing-monitor: terminal dashboard in simulation mode showing the dB level, strain score and time left" width="100%"></a>
+<p><a href="https://github.com/nithish101/hearing-monitor">hearing-monitor</a>: a real-time hearing strain
+monitor in C on a Raspberry Pi, reading an I2S MEMS microphone and driving an LED and buzzer
+over GPIO, with a POSIX simulation mode for running headless.</p>
+</td>
+<td width="33%" valign="top">
+<a href="https://github.com/nithish101/Semester-Survival"><img src="assets/semester-survival.png" alt="Semester Survival: week 1 with $500 cash, four life meters at 80, and the budget allocation form" width="100%"></a>
+<p><a href="https://github.com/nithish101/Semester-Survival">Semester Survival</a>: a budgeting simulation
+game. <a href="https://nithish101.github.io/Semester-Survival/">Play it</a>.</p>
+</td>
+<td width="33%" valign="top">
+<a href="https://github.com/nithish101/first-kitchen"><img src="assets/first-kitchen.png" alt="First Kitchen: level 2 with chicken, oil and lemon in the skillet and the cooking timer at 21 minutes" width="100%"></a>
+<p><a href="https://github.com/nithish101/first-kitchen">First Kitchen</a>: a cooking game driven by
+ingredient chemistry instead of recipes. <a href="https://nithish101.github.io/first-kitchen/">Play it</a>.</p>
+</td>
+</tr>
+</table>
 
 ### Tools
 
