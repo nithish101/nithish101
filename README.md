@@ -7,7 +7,7 @@ SDE intern on Data Center Automation at AWS. B.S. and M.S. in Computer Science a
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/nithish101/resonance"><img src="assets/resonance.gif" alt="Resonance: a spectral tunnel, a particle nebula, and a chroma flower reacting to a house track" width="100%"></a>
-<p><a href="https://github.com/nithish101/resonance"><strong>Resonance</strong></a></p>
+<p><a href="https://github.com/nithish101/resonance"><strong>Resonance</strong></a> · <a href="https://nithish101.github.io/resonance/">Play it</a></p>
 <p>A real-time music visualizer for the browser. Signal processing written from scratch in Rust and compiled to WebAssembly (FFT, onsets, tempo, beat tracking, key), fed by a lock-free pipeline from an AudioWorklet to a WebGPU render worker.</p>
 <p><sub>60 FPS at 1080p, 500k GPU-simulated particles, 8.6 µs of analysis per audio hop, beat-tracking F-measure 0.99 on synthetic grooves.</sub></p>
 <p><sub>Rust · WebAssembly · TypeScript · WebGPU · WebGL2 · AWS CDK</sub></p>
